@@ -1,0 +1,21 @@
+.dummy{
+	color : blue;
+}
+.backgroundImage{
+	background-image: url('https://imgd.aeplcdn.com/0X0/bw/static/landing-banners/d/home-top-banner-4.jpg?v=30117&q=75') ;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    //https://images.unsplash.com/photo-1576611292464-fa3c0e19b2a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fG1vdG9yY3ljbGVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60
+}
+.bikelogohovering :hover{
+    height: 105px;
+    width: 105px;
+}
+.bikelogohovering img{
+    height: 100px;
+    width: 100px;
+    border-radius:25px;
+    display:inline-block;
+}
